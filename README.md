@@ -1,1 +1,1 @@
-# agile-plnning
+# agile-planning
